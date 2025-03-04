@@ -32,9 +32,9 @@ export default function App(){
                 source={require('./src/Dicas.png')}
                 style={styles.imgMenu}
             />
-            <Picker> 
+            <Pressable> 
               <Text style={ styles.textomenu }> Dicas </Text>
-            </Picker>
+            </Pressable>
 
             <Image
               source={(require('./src/Home.png'))}
