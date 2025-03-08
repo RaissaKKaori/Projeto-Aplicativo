@@ -1,12 +1,11 @@
 # Projeto-Aplicativo
 ## Primeiro-aplicativo-react native
 
-# ❤️‍🩹Doa+
 
 ### 🎯Objetivo:
-- Unir todos os cidadãos, instituições de caridade e supermercados, para o bem dos necessitados.
-- Facilitar o processo de doação e interação com as instituições.
-- Tornar um aplicativo para todos
+- Construção de um código limpo e organizado
+- Interface de um aplicativo fácil de entender
+- Focado em backend
 
 Este aplicativo não tem um prazo para terminar, sempre estará em constante atualização e melhorias.
 
